@@ -1,5 +1,6 @@
 # Artifficial-Online-Handwritten-Mathematical-Expressions
 This is artificial online handwritten mathematical expressions generated from CROHME database.
+The pupose of this project is that generate a large online handwritten mathematical expressions database from the existed database (CROHME). 
 + Format: we use the same format as CROHME database, you can read more at
 http://www.iapr-tc11.org/mediawiki/index.php?title=CROHME:_Competition_on_Recognition_of_Online_Handwritten_Mathematical_Expressions
 
