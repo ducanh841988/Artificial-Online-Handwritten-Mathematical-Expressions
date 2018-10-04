@@ -10,9 +10,11 @@ The dataset contains image folder and annotation files. The format of annotation
 target latex is normalized and inserted space between latex codes.   
 
 Example:   
-'''rit_42165_2.png \sin [ a + b ] = \sin a \cos b + \cos a \sin b   
+rit_42165_2.png \sin [ a + b ] = \sin a \cos b + \cos a \sin b   
 rit_42170_0.png x ^ { 4 } - 4 x ^ { 3 } - 1 4 x ^ { 2 } - 4 x + 1   
 rit_42170_1.png x ^ { 4 } - 4 x ^ { 2 } + 2 + \sqrt { 2 }   
-rit_42170_2.png \sin [ x + y ] = [ \sin x \cos y + \cos x \sin y ]   '''    
+rit_42170_2.png \sin [ x + y ] = [ \sin x \cos y + \cos x \sin y ]   
  
-+ Terms of Use: this dataset is licensed under a [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en)
+#Terms of Use:
+This dataset is licensed under a [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en)
+#Download 
