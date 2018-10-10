@@ -5,9 +5,10 @@ The pupose of this project is that generate a large online handwritten mathemati
 2. Anh Duc Le, Bipin Indurkhya, and Masaki Nakagawa: Pattern generation strategies for improving recognition of Handwritten Mathematical Expressions. (to be pulished soon)   
 We generated 3 new datasets: CROHME_DISTORTION, CROHME_DECOMPOSITION, CROHME_HYBRID   
 The number of equation in each dataset is shown in below:   
-|   dataset|CROHME    | ROHME_DISTORTION| CROHME_DECOMPOSITION| CROHME_HYBRID |
-|---|---|---|---|---|
-|  # of MEs | 8.835  |53.010   | 32.884  | 197.304  |
+
+|   dataset|CROHME    | ROHME_DISTORTION| CROHME_DECOMPOSITION| CROHME_HYBRID |   
+|---|---|---|---|---|   
+|  # of MEs | 8.835  |53.010   | 32.884  | 197.304  |   
 
 
 # Format:
