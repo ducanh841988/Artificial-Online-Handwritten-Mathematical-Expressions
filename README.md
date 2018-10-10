@@ -25,3 +25,4 @@ rit_42170_2.png \sin [ x + y ] = [ \sin x \cos y + \cos x \sin y ]
 # Terms of Use:
 This dataset is licensed under a [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en)   
 # Download 
+Please send [me](leducanh841988@gmail.com) an email to get the download link
