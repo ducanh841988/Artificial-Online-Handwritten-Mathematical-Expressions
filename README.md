@@ -9,9 +9,9 @@ The number of equation in each dataset is shown in below:
 |   dataset|CROHME    | CROHME_DISTORTION| CROHME_DECOMPOSITION| CROHME_HYBRID |   
 |---|---|---|---|---|   
 |  # of MEs | 8,835  |53,010   | 32,884  | 197,304  |   
-|---|---|---|---|---|   
+
 |  Accuracy on Testing 2014 | 39.76  |41.48   | 47.67  | 48.78  |   
-|---|---|---|---|---|   
+
 |  Accuracy on Testing 2016 | 36.27  |37.14   | 42.63  | 45.60  |   
 
 # Format:
