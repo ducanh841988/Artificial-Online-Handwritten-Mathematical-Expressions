@@ -6,7 +6,7 @@ The pupose of this project is that generate a large online handwritten mathemati
 We generated 3 new datasets: CROHME_DISTORTION, CROHME_DECOMPOSITION, CROHME_HYBRID   
 The number of equation in each dataset is shown in below:   
 
-|   dataset|CROHME    | ROHME_DISTORTION| CROHME_DECOMPOSITION| CROHME_HYBRID |   
+|   dataset|CROHME    | CROHME_DISTORTION| CROHME_DECOMPOSITION| CROHME_HYBRID |   
 |---|---|---|---|---|   
 |  # of MEs | 8.835  |53.010   | 32.884  | 197.304  |   
 
