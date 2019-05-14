@@ -2,7 +2,7 @@
 This is artificial online handwritten mathematical expressions generated from CROHME database.
 The pupose of this project is that generate a large online handwritten mathematical expressions database from the existed database (CROHME). Please refer to our paper:   
 1. [Anh Duc Le and Masaki Nakagawa: Training an End-to-End System for Handwritten Mathematical Expression Recognition by Generated Patterns. Proc. of ICDAR 2017, pp. 1056-1061, Kyoto, Japan (11.2017).](http://web.tuat.ac.jp/~nakagawa/pub/2017/pdf/ICDAR2017-(Training_an_End-to-End_System_for_Handwritten_Mathematical_expressions_by_generated_patterns).pdf)   
-2. Anh Duc Le, Bipin Indurkhya, and Masaki Nakagawa: Pattern generation strategies for improving recognition of Handwritten Mathematical Expressions. (under review)   
+2. Anh Duc Le, Bipin Indurkhya, and Masaki Nakagawa: Pattern generation strategies for improving recognition of Handwritten Mathematical Expressions. (under review)   https://arxiv.org/abs/1901.06763
 We generated 3 new datasets: CROHME_DISTORTION, CROHME_DECOMPOSITION, CROHME_HYBRID   
 The number of equation in each dataset is shown in below:   
 
